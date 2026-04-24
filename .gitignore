@@ -1,3 +1,5 @@
+messages.csv
+
 # Environment variables
 .env
 .env.local
